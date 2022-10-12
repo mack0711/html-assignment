@@ -1,0 +1,63 @@
+
+    
+        body {
+            background-color: lightblue;
+            font-size:18px;
+        }
+        
+        .h1 {
+            font-family:Arial;
+            font-size:30px;
+        }
+        p {
+            font-family:Arial;
+            font-size:18px;
+        }
+        .bq {
+            font-family:Arial;
+            font-size:18px;
+        }
+        .li {
+            font-family:Arial;
+            font-size:18px;
+            list-style-type: square;
+        }
+        #nav.a{
+            font-family: Arial;
+            font-size: 18px;
+            border-style: solid;
+        }
+        a:link, a:visited {
+  background-color: lightblue(26, 11, 11);
+  color: black;
+  border: 2px solid black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover, a:active {
+  background-color: rgb(20, 3, 119);
+  color: rgb(0, 0, 0);
+}
+li:nth-child(1) {
+  background: rgb(88, 82, 252);
+}
+li:nth-child(3) {
+  background: rgb(53, 41, 219);
+}
+a link{
+    text-decoration: none;
+}
+#header-footer{ 
+    background-color:rgb(53, 41, 219);
+    font-family:Arial
+}
+.site-title{
+    color:rgb(0, 0, 0);
+    font-family: Arial;
+    font-size: 30px;
+}
+#my-image{
+    box-shadow: 10px 0px;
+}
